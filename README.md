@@ -1,4 +1,4 @@
-** Description： **
+**Description：**
 jsp+servlet+mysql实现的简单登录注册功能
 ----
 
