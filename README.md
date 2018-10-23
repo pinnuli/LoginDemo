@@ -22,4 +22,4 @@ jsp+servlet+mysql实现的简单登录注册功能
 - session保存登录状态
 
 ##### 逻辑导图
-![avatar](src/resources/逻辑导图.png)
+<img src="./src/resources/逻辑导图.png">
